@@ -12,6 +12,9 @@ export default function Layout({ children }) {
             <li>
               <Link href="/#co2">Co2</Link>
             </li>
+            <li>
+              <Link href="/#footer">Students</Link>
+            </li>
           </ul>
         </nav>
       </header>
